@@ -1,7 +1,19 @@
 {
     "name" : "apple",
-    "calories" : 40,
-    "carbs" : 10,
-    "fats" : 0,
-    "protein" : 2
+    "servingSize": 154.00000000,
+    "servingSizeUnit": "g",
+    "labelNutrients":{
+        "fat": {
+            "value": 1.00
+        },
+        "carbohydrates": {
+            "value": 22.0
+        },
+        "protein": {
+            "value": 0.000
+        },
+        "calories": {
+            "value": 80.1
+        }
+    }
 }

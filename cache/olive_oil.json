@@ -1,7 +1,19 @@
 {
-    "name" : "olive oil",
-    "calories" : 100,
-    "carbs" : 1,
-    "fats" : 10,
-    "protein" : 1
+    "name" : "olive_oil",
+    "servingSize": 28.00000000,
+    "servingSizeUnit": "g",
+    "labelNutrients":{
+        "fat": {
+            "value": 10.00
+        },
+        "carbohydrates": {
+            "value": 1.0
+        },
+        "protein": {
+            "value": 0.000
+        },
+        "calories": {
+            "value": 100
+        }
+    }
 }
