@@ -1,4 +1,7 @@
 
 cache/454004.json
 cache/apple_search.json
-api_key.key
+api_key.key\
+__pycache__
+
+*.key

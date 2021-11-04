@@ -52,4 +52,4 @@ def get_info(food_qry=""):
             print(nut + ": " + str(get_nut(f,nut).get("value")))
         print("")
 
-get_info("apple")
+#get_info("apple")

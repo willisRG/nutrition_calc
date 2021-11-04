@@ -92,8 +92,8 @@ class day:
     def get_mealnames(self):
         return list(self.meals.keys())
 
-    def get_meal(self, i):
-        return self.meals[i]
+    def get_meal(self, name):
+        return self.meals.get(name)
 
     def get_date(self):
         return self.date
