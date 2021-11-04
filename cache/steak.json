@@ -1,7 +1,19 @@
 {
     "name" : "steak",
-    "calories" : 300,
-    "carbs" : 8,
-    "fats" : 15,
-    "protein" : 30
+    "servingSize": 200.00000000,
+    "servingSizeUnit": "g",
+    "labelNutrients":{
+        "fat": {
+            "value": 15.00
+        },
+        "carbohydrates": {
+            "value": 8.00
+        },
+        "protein": {
+            "value": 30.000
+        },
+        "calories": {
+            "value": 300
+        }
+    }
 }

@@ -1,7 +1,19 @@
 {
     "name" : "bread",
-    "calories" : 100,
-    "carbs" : 13,
-    "fats" : 2,
-    "protein" : 1
+    "servingSize": 50.00000000,
+    "servingSizeUnit": "g",
+    "labelNutrients":{
+        "fat": {
+            "value": 2.00
+        },
+        "carbohydrates": {
+            "value": 13.0
+        },
+        "protein": {
+            "value": 1.000
+        },
+        "calories": {
+            "value": 100.5
+        }
+    }
 }

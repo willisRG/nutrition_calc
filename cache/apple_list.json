@@ -1,0 +1,198 @@
+[
+    {
+        "fdcId": 454004,
+        "description": "APPLE",
+        "dataType": "Branded",
+        "publicationDate": "2019-04-01",
+        "brandOwner": "TREECRISP 2 GO",
+        "gtinUpc": "867824000001",
+        "foodNutrients": [
+            {
+                "number": "301",
+                "name": "Calcium, Ca",
+                "amount": 0E-8,
+                "unitName": "MG",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "303",
+                "name": "Iron, Fe",
+                "amount": 0.230,
+                "unitName": "MG",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "307",
+                "name": "Sodium, Na",
+                "amount": 0E-8,
+                "unitName": "MG",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "318",
+                "name": "Vitamin A, IU",
+                "amount": 65.0,
+                "unitName": "IU",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "401",
+                "name": "Vitamin C, total ascorbic acid",
+                "amount": 3.10,
+                "unitName": "MG",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "601",
+                "name": "Cholesterol",
+                "amount": 0E-8,
+                "unitName": "MG",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "606",
+                "name": "Fatty acids, total saturated",
+                "amount": 0E-8,
+                "unitName": "G",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "203",
+                "name": "Protein",
+                "amount": 0E-8,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "205",
+                "name": "Carbohydrate, by difference",
+                "amount": 14.3,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "208",
+                "name": "Energy",
+                "amount": 52.0,
+                "unitName": "KCAL",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "269",
+                "name": "Sugars, total including NLEA",
+                "amount": 10.4,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "291",
+                "name": "Fiber, total dietary",
+                "amount": 3.20,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "306",
+                "name": "Potassium, K",
+                "amount": 110,
+                "unitName": "MG",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "605",
+                "name": "Fatty acids, total trans",
+                "amount": 0E-8,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "204",
+                "name": "Total lipid (fat)",
+                "amount": 0.650,
+                "unitName": "G",
+                "derivationCode": "LCSL",
+                "derivationDescription": "Calculated from a less than value per serving size measure"
+            }
+        ]
+    },
+    {
+        "fdcId": 2117388,
+        "description": "APPLE",
+        "dataType": "Branded",
+        "publicationDate": "2021-10-28",
+        "brandOwner": "Associated Wholesale Grocers, Inc.",
+        "gtinUpc": "070038322238",
+        "foodNutrients": [
+            {
+                "number": "203",
+                "name": "Protein",
+                "amount": 0E-8,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "204",
+                "name": "Total lipid (fat)",
+                "amount": 0E-8,
+                "unitName": "G",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            },
+            {
+                "number": "205",
+                "name": "Carbohydrate, by difference",
+                "amount": 11.7,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "208",
+                "name": "Energy",
+                "amount": 46.0,
+                "unitName": "KCAL",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "269",
+                "name": "Sugars, total including NLEA",
+                "amount": 11.7,
+                "unitName": "G",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "307",
+                "name": "Sodium, Na",
+                "amount": 15.0,
+                "unitName": "MG",
+                "derivationCode": "LCCS",
+                "derivationDescription": "Calculated from value per serving size measure"
+            },
+            {
+                "number": "401",
+                "name": "Vitamin C, total ascorbic acid",
+                "amount": 32.5,
+                "unitName": "MG",
+                "derivationCode": "LCCD",
+                "derivationDescription": "Calculated from a daily value percentage per serving size measure"
+            }
+        ]
+    }
+]
